@@ -1,1 +1,1 @@
-# Equal-ALGO-MEDIUM
+# Equal-ALGO-MEDIUM.The program tries to reduce all elements to the minimum value (or slightly lower) by counting the number of 5-, 2-, and 1-unit decrements needed for each element, then returns the smallest total operations required.
